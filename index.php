@@ -5,6 +5,6 @@
         <div>
             <input type="submit" value="Click Me" onclick="alert"/>
         </div>
-        <p>My first paragraph</p>
+        <p>Lets restart my journey</p>
     </Body>
 </html>
